@@ -1,4 +1,4 @@
-package main
+package LamportClock
 
 // create a struct for the clock
 
